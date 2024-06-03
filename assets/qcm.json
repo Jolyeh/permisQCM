@@ -1,0 +1,67 @@
+{
+    "title": "Permis de conduire: Préparez-vous au succès",
+    "description": "Testez et renforcez vos connaissances pour réussir votre examen de conduite.",
+    "questions": [
+        {
+            "questionText": {
+                "text": "Quel est le panneau indiquant une priorité à droite ?",
+                "media": {
+                    "type": "image/png",
+                    "url": "https://img1.freepng.fr/20180408/rpq/kisspng-priority-to-the-right-priority-signs-traffic-sign-thumbtack-5ac9b837301507.468464201523169335197.jpg"
+                }
+            },
+            "options": [
+                {
+                    "optionText": {
+                        "text": "A",
+                        "media": {
+                            "type": "image/png",
+                            "url": "https://img1.freepng.fr/20180408/rpq/kisspng-priority-to-the-right-priority-signs-traffic-sign-thumbtack-5ac9b837301507.468464201523169335197.jpg"
+                        }
+                    },  
+                    "isCorrect": false
+                },
+                {
+                    "optionText": {
+                        "text": "B",
+                        "media": {
+                            "type": "image/png",
+                            "url": "https://img1.freepng.fr/20180408/rpq/kisspng-priority-to-the-right-priority-signs-traffic-sign-thumbtack-5ac9b837301507.468464201523169335197.jpg"
+                        }
+                    },  
+                    "isCorrect": false
+                },
+                {
+                    "optionText": {
+                        "text": "C",
+                        "media": {
+                            "type": "image/png",
+                            "url": "https://img1.freepng.fr/20180408/rpq/kisspng-priority-to-the-right-priority-signs-traffic-sign-thumbtack-5ac9b837301507.468464201523169335197.jpg"
+                        }
+                    },  
+                    "isCorrect": true
+                },
+                {
+                    "optionText": {
+                        "text": "D",
+                        "media": {
+                            "type": "image/png",
+                            "url": "https://img1.freepng.fr/20180408/rpq/kisspng-priority-to-the-right-priority-signs-traffic-sign-thumbtack-5ac9b837301507.468464201523169335197.jpg"
+                        }
+                    },  
+                    "isCorrect": false
+                }
+                 
+            ],
+            "duration": 20,
+            "feedback": "Correct! Le panneau 'Cédez le passage' indique qu'il faut laisser la priorité aux véhicules venant de la droite.",
+            "hint": "Ce panneau est souvent utilisé aux intersections où il n'y a pas de feux de signalisation."
+        }
+        
+    ],
+    "showResults": true,
+    "passingScore": 75,
+    "feedbackMessage": "Félicitations, vous avez réussi le test de préparation au permis de conduire !",
+    "failureMessage": "Vous n'avez pas réussi le test pour le moment. Continuez à pratiquer et à réviser pour améliorer vos chances de réussite.",
+   
+}
